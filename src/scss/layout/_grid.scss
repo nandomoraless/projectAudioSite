@@ -1,0 +1,6 @@
+// Mobile First Grids
+
+.grid__section {
+    display: grid;
+    grid-template-columns: repeat(1fr, 4);
+}
