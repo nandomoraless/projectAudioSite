@@ -18,6 +18,6 @@
     "gulp-sourcemaps": "^2.6.5"
   },
   "dependencies": {
-    "postcss": "^7.0.32"
+    "postcss": "^7.0.36"
   }
 }
